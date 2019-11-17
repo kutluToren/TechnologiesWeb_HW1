@@ -1,0 +1,13 @@
+{
+  "name": "demo-for-ece-class",
+  "version": "1.0.0",
+  "private": true,
+  "description": "a project for web dev class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "kutlu",
+  "license": "UNLICENSED"
+}
